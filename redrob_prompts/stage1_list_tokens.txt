@@ -1,0 +1,12 @@
+Stage 1 - List raw tokens (split on commas) from these resumes in order (one resume per line):
+
+Pyhton, MachineLearning, SQL, pandas, nump y, Deep-learning
+JavaScrpit, Reacts, Node. JS, MongoDb, REST api, HTML/CSS
+Java, Spring Boot, MySql, Microser vices, Dock er, kubernat es
+Python, TensorFlo w, Keras, NLP, BERT, data-viz, matplotlib
+C++, Algoritms, Data Structure, compe titive programming, python
+javascrip t, vue.js, python, flask, PostgreSQL , AWS, CI/CD
+Python, Sklearn, XGboos t, feature engineering, SQL, tableau
+Java, Android, Kotlin, Firebase, REST, UI/UX, figma
+Reactjs, TypeScrpit, GraphQL , redux, tailwind, nodejs, jest
+python, R, statistics, ML, regression, clustering, Power-BI

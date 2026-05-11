@@ -1,0 +1,1 @@
+Stage 5/6 - Using the vocabulary from Stage 4 and normalized resume skills, compute TF (1/unique_count), TF-IDF vectors, JD binary vectors (use the provided JD required skills), and cosine similarities. Return top-3 per JD with scores rounded to 2 decimals.

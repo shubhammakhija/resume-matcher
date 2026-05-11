@@ -1,0 +1,1 @@
+Stage 2 - Propose a robust normalization procedure for the raw skill tokens from Stage 1. Consider: handling internal spaces (e.g., "nump y" -> "numpy"), removing punctuation, lowercasing, multi-word phrase matching, and deduplication. List edge cases and candidate variants to try. Do NOT apply SKILL_ALIASES yet — just propose the logic.

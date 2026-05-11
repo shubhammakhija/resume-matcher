@@ -1,0 +1,10 @@
+python, machine_learning, sql, pandas, numpy, deep_learning
+javascript, react, nodejs, mongodb, rest_api, html_css
+java, spring_boot, mysql, microservices, docker, kubernetes
+python, tensorflow, keras, nlp, bert, data_visualization
+cpp, algorithms, data_structures, python
+javascript, vue, python, flask, postgresql, aws, ci_cd
+python, machine_learning, xgboost, feature_engineering, sql, data_visualization
+java, android, kotlin, firebase, rest_api, ui_ux, figma
+react, typescript, graphql, redux, tailwind, nodejs, jest
+python, r, statistics, machine_learning, regression, clustering, data_visualization
